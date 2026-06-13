@@ -1,0 +1,8 @@
+Aparece informacion del codigo, hora de ejecucion y esta informacion
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+]
